@@ -1,3 +1,2 @@
-# repository-basic
-test basic repository functions
-gvgvghvgh
+안녕하세요. A학생입니다.
+GitHub 브랜치 실습 중입니다.
