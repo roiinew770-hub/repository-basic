@@ -1,3 +1,3 @@
-# repository-basic
-test basic repository functions
-gvgvghvgh
+## A학생 작업 내용
+- 자기 소개 1줄 작성
+- 실습 날짜 작
